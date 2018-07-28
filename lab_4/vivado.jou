@@ -1,14 +1,12 @@
 #-----------------------------------------------------------
-# Vivado v2018.1 (64-bit)
-# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
-# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
-# Start of session at: Thu Jul 26 19:20:56 2018
-# Process ID: 16580
-# Current directory: C:/Users/lvyuf/VivadoProjects/nscscc_2018/lab_4
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1028 C:\Users\lvyuf\VivadoProjects\nscscc_2018\lab_4\lab_4.xpr
-# Log file: C:/Users/lvyuf/VivadoProjects/nscscc_2018/lab_4/vivado.log
-# Journal file: C:/Users/lvyuf/VivadoProjects/nscscc_2018/lab_4\vivado.jou
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Jul 28 15:03:12 2018
+# Process ID: 27616
+# Current directory: C:/Users/lenovo/nscscc_2018/lab_4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent30604 C:\Users\lenovo\nscscc_2018\lab_4\lab_4.xpr
+# Log file: C:/Users/lenovo/nscscc_2018/lab_4/vivado.log
+# Journal file: C:/Users/lenovo/nscscc_2018/lab_4\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project C:/Users/lvyuf/VivadoProjects/nscscc_2018/lab_4/lab_4.xpr
-update_compile_order -fileset sources_1
